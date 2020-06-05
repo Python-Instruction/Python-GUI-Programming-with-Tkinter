@@ -8,3 +8,10 @@
 
 ## 3. adding a button.py
 ![](image/Screenshot%20(686).png)
+
+## 3. stop watch.py
+![](image/Screenshot%20(704).png)
+![](image/Screenshot%20(705).png)
+
+## 3. sample calculator.py
+![](image/Screenshot%20(710).png)
